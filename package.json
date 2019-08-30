@@ -1,0 +1,14 @@
+{
+  "name": "local_modules",
+  "version": "1.0.0",
+  "description": "Sample showing the usage of local modules with npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Sudhakar",
+  "license": "ISC",
+  "dependencies": {
+    "sysinfo": "file:local_modules/sysinfo"
+  }
+}
