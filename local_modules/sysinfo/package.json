@@ -1,0 +1,8 @@
+{
+  "name": "sysinfo",
+  "version": "1.0.0",
+  "description": "A sample module",
+  "main": "index.js",
+  "author": "Sudhakar",
+  "license": "ISC"
+}
