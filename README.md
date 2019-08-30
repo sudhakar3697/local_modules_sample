@@ -21,7 +21,7 @@ https://nodesource.com/blog/avoiding-common-challenges-node-js
             index.js
             package.json
     ->node_modules
-        ->sysinfo
+        ->sysinfo (link to local_modules/sysinfo is created)
             index.js
             package.json
     index.js
